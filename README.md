@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Uscreen is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.uscreen.tv/
+Uscreen provides an all‑in‑one video membership platform that enables creators and businesses to launch paid subscriptions, host video‑on‑demand libraries, live‑stream events, and build community hubs. The service includes branded websites, OTT apps for iOS, Android, and web, analytics dashboards, and integrated marketing tools, helping creators scale their brands and monetize content directly.
+
+**Areas:** Company · Video · Membership · Platform · Creator
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.uscreen.tv/)
+- [Documentation](https://www.uscreen.tv/resources/)
+- [Getting started](https://help.uscreen.tv/en/articles/4315861-seo-setup-a-complete-guide)
+- [Pricing](https://www.uscreen.tv/pricing/)
+- [Sign up](https://app.uscreen.tv/admin/registrations/new)
+- [Blog](https://www.uscreen.tv/blog/)
+- [Trust centre](https://trust.uscreen.tv/)
+- [Privacy policy](https://www.uscreen.tv/privacy-policy/)
+- [Status](https://uscreen.statuspage.io/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/uscreen/](https://apis.io/providers/uscreen/).
